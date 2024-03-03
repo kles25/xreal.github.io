@@ -1,0 +1,107 @@
+.property-section {
+    height: 100vh;
+    padding: 10vh 4vw;
+}
+
+.property-holder {
+    padding: 0 1vw;
+    margin-bottom: 5vh;
+    text-align: right;
+}
+
+.property-holder h2 {
+    font-size: 4vh;
+    font-weight: 300;
+    color: #094067;
+}
+
+.property-holder select {
+    padding: 1.5vh 1.5vw;
+    border-radius: 10vh;
+    border: none;
+    background-color: #094067;
+    color: #fffffe;
+    font-size: 2vh;
+    font-weight: 300;
+    transition: .5s;
+}
+
+.property-holder option {
+    font-size: 2vh;
+    font-weight: 300;
+    border-radius: 1vh;
+    transition: .5s;
+}
+
+#condoList div img {
+    height: 50vh;
+    width: 100%;
+    object-fit: cover;
+    -webkit-box-shadow: 0px 1px 41px -14px rgba(0, 0, 0, 1.75);
+    -moz-box-shadow: 0px 1px 41px -14px rgba(0, 0, 0, 0.75);
+    box-shadow: 0px 1px 41px -14px rgba(0, 0, 0, 1.75);
+}
+
+#condoList div {
+    padding: 0 1vw;
+}
+
+#condoList div h3 {
+    font-size: 1.8vh;
+    color: #094067;
+    text-transform: uppercase;
+    font-weight: 600;
+}
+
+#condoList div p {
+    font-size: 1.8vh;
+    color: #5f6c7b;
+    font-weight: 400;
+    margin-top: .5vh;
+}
+
+.condo {
+    display: none;
+}
+
+.visible {
+    display: block;
+}
+
+#pagination {
+    text-align: right;
+}
+
+#pagination button {
+    padding: 1vh 1vw;
+    margin: 3vh .5vw;
+    border: none;
+    background-color: #5f6c7b;
+    font-size: 1.7vh;
+    cursor: pointer;
+}
+
+.active {
+    background-color: #094067 !important;
+    color: #fff;
+}
+
+@media (max-width: 900px) {
+    #condoList .pages-col-3 {
+        -webkit-box-flex: 0;
+        -ms-flex: 0 0 50%;
+        flex: 0 0 50%;
+        max-width: 50%;
+    }
+
+    #condoList div img {
+        height: 22vh;
+        margin-top: 2vh;
+    }
+}
+
+@media (max-width: 690px) {
+    #pagination button {
+        padding: 1vh 2vw;
+    }
+}
