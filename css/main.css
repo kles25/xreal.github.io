@@ -285,7 +285,7 @@ header {
 .section-banner {
     height: 35vh;
     width: 100%;
-    background-image: url(/image/bg3.jpg);
+    background-image: url(../image/bg3.jpg);
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -401,7 +401,7 @@ header {
 /* HERO SECTION CSS */
 
 .hero-section {
-    background-image: url(/image/hero.jpg);
+    background-image: url(../image/hero.jpg);
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
