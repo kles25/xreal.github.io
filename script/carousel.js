@@ -1,49 +1,49 @@
 let slidess = [
     {
         title: "Air Residence",
-        image: "../image/air_residence/air.jpg",
+        image: "image/air_residence/air.jpg",
         address: "Makati City",
         price: "₱ 6,700,000 - 7,100,000"
     },
     {
         title: "Jade Residence",
-        image: "../image/jade_residence/jade_unit1.jpg",
+        image: "image/jade_residence/jade_unit1.jpg",
         address: "Makati City",
         price: "₱ 6,311,000 - Php 12,264,000"
     },
     {
         title: "Lush Residence",
-        image: "../image/lush_residence/lush.png",
+        image: "image/lush_residence/lush.png",
         address: "Makati City",
         price: "₱ 5,800,000 - Php 10,100,000"
     },
     {
         title: "Mint Residence",
-        image: "../image/mint_residence/mint.png",
+        image: "image/mint_residence/mint.png",
         address: "Makati City",
         price: "₱ 6,300,000 - Php 16,900,000"
     },
     {
         title: "Coast Residence",
-        image: "../image/coast_residence/coast.jpg",
+        image: "image/coast_residence/coast.jpg",
         address: "Pasay City",
         price: "₱ 5,100,000 - 22,700,000"
     },
     {
         title: "Ice Tower Residence",
-        image: "../image/ice_tower_residence/ice_tower.png",
+        image: "image/ice_tower_residence/ice_tower.png",
         address: "Pasay City",
         price: "₱ 7,500,000 - 12,500,000"
     },
     {
         title: "Sail Residence",
-        image: "../image/sail_residence/sail.jpg",
+        image: "image/sail_residence/sail.jpg",
         address: "Pasay City",
         price: "₱ 8,600,000 - 24,600,000"
     },
     {
         title: "Shore Residence",
-        image: "../image/mint_residence/mint.png",
+        image: "image/mint_residence/mint.png",
         address: "Pasay City",
         price: "₱ 6,500,000 - 24,800,000"
     }

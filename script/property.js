@@ -3,28 +3,28 @@ const condos = {
     makati: [
         {
             name: "Air Residence",
-            image: "../image/air_residence/air.jpg",
+            image: "image/air_residence/air.jpg",
             location: "Makati City",
             price: "Php 6,700,000 - 7,100,000",
             link: "air-residences.html"
         },
         {
             name: "Jade Residence",
-            image: "../image/jade_residence/jade.jpg",
+            image: "image/jade_residence/jade.jpg",
             location: "Makati City",
             price: "Php 6,311,000 - Php 12,264,000",
             link: "jade-residences.html"
         },
         {
             name: "Lush Residence",
-            image: "../image/lush_residence/lush.png",
+            image: "image/lush_residence/lush.png",
             location: "Makati City",
             price: "Php 5,800,000 - 10,100,000",
             link: "lush-residences.html"
         },
         {
             name: "Mint Residence",
-            image: "../image/mint_residence/mint.png",
+            image: "image/mint_residence/mint.png",
             location: "Makati City",
             price: "Php 6,300,000 - 16,900,000",
             link: "mint-residences.html"
@@ -33,28 +33,28 @@ const condos = {
     pasay: [
         {
             name: "Coast Residence",
-            image: "../image/coast_residence/coast.jpg",
+            image: "image/coast_residence/coast.jpg",
             location: "Pasay City",
             price: "Php 5,100,000 - 22,700,000",
             link: "coast-residences.html"
         },
         {
             name: "Ice Tower Residence",
-            image: "../image/ice_tower_residence/ice_tower.png",
+            image: "image/ice_tower_residence/ice_tower.png",
             location: "Pasay City",
             price: "Php 7,500,000 - 12,500,000",
             link: "ice-tower-residences.html"
         },
         {
             name: "Sail Residence",
-            image: "../image/sail_residence/sail.jpg",
+            image: "image/sail_residence/sail.jpg",
             location: "Pasay City",
             price: "Php 8,600,000 - 24,600,000",
             link: "sail-residences.html"
         },
         {
             name: "Shore Residence",
-            image: "../image/shore_residence/shore.png",
+            image: "image/shore_residence/shore.png",
             location: "Pasay City",
             price: "Php 6,500,000 - 24,800,000",
             link: "shore-residences.html"
